@@ -28,11 +28,6 @@ export default {
       fb: "Nattx",
     },
   }),
-  methods: {
-    goToHome() {
-      this.$router.push("/");
-    },
-  },
 };
 </script>
 
