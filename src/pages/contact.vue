@@ -3,7 +3,7 @@
   <div class="grid-container1">
     <div class="grid-item3">
       <p>
-        <a href="mailto:admin.readtolisten@gmail.com"
+        <a href="mailto:kwanchai.se@ku.th"
           >Email : {{ contact.email }} <br
         /></a>
         phone : {{ contact.phone }} <br />
